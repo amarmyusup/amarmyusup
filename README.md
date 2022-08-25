@@ -50,6 +50,9 @@
 <a href="https://instagram.com/amar.m.yusup">
   <img align="left" alt="Instagram" width="40px" src="https://github.com/amarmyusup/amarmyusup/blob/cda08714e6c23f98a0b46bdb7dc5c3b14982b6fb/assets/instagram.svg" />
 </a>
+<a href="https://facebook.com/amar.m.yusup9">
+  <img align="left" alt="Facebook" width="40px" src="https://github.com/amarmyusup/amarmyusup/blob/088b66946ca57bc83a9840364c5714ba47ddde86/assets/facebook.svg" />
+</a>
   
 
 <!--
