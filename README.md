@@ -1,17 +1,17 @@
-<h1> Hi, welcome</h1>
-<h1> Hi, I'm Amar Maulana Yusup, 16y</h1>
+<h1> Hi, Welcome</h1>
+<h1 align="center">Hi, I'm Amar Maulana Yusup, 16y</h1>
 <h1 align="center">Front-End Developer </h1> 
 
 
 - <h3>A young man in love with technology. <img src="https://emojis.slackmojis.com/emojis/images/1614195067/14740/pc_computer.gif?1614195067" width="40" /></h3> 
 
-- <h3>My favorite technologies are ReactJs, React Native and NodeJs. <img align="center" width=40px" src="https://emojis.slackmojis.com/emojis/images/1596129820/9856/love.gif?1596129820"></h3> 
+- <h3>My favorite technologies are ReactJs, React Native and NodeJs.</h3> 
 
 - <h3> Student at Rocketseat. <img align="center" width="40px" src="https://emojis.slackmojis.com/emojis/images/1611852306/12254/stockrocket.gif?1611852306"></h3> 
   
-- <h3>I live in Brazil. <img align="center" width="40px" src="https://emojis.slackmojis.com/emojis/images/1622794195/43305/brazil.gif?1622794195"></h3>
+- <h3>I live in Indonesia.</h3>
 
-## 🔧 🔨 Languages and Tools
+## 🔧 Languages and Tools
 <br>
 
 <p align="center" margin="100px"> 
@@ -29,7 +29,7 @@
 
 <br>
 
-## 🧮 📊 Github Stats
+## 📊 Github Stats
 <a href='https://github.com/Nikolas-as/github-stats-transparent'>
 
   <table>
@@ -44,9 +44,9 @@
   
 <br>
 
-## 🔗 📞 Links
+## 🔗 Links
 
-<a href="https://www.linkedin.com/in/nikolas-santana-/">
+<a href="https://www.twitter.com/amarmyusup-/">
   <img align="left" alt="Abhishek's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <!-- <a href="https://twitter.com/NikaumJs">
