@@ -45,11 +45,11 @@
 ## 🔗 Links
 
 <a href="https://www.twitter.com/amarmyusup/">
-  <img align="left" alt="Twitter" width="40px" src="https://raw.githubusercontent.com/amarmyusup/amarmyusup/blob/8c6a94caa51e2dc2bbe6405bdaf19aa3a85626bb/assets/twitter.svg" />
+  <img align="left" alt="Twitter" width="40px" src="https://github.com/amarmyusup/amarmyusup/blob/8c6a94caa51e2dc2bbe6405bdaf19aa3a85626bb/assets/twitter.svg" />
 </a>
-<!-- <a href="https://twitter.com/NikaumJs">
-  <img align="left" alt="Abhishek's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a> -->
+<a href="https://instagram.com/amar.m.yusup">
+  <img align="left" alt="Instagram" width="40px" src="https://github.com/amarmyusup/amarmyusup/blob/cda08714e6c23f98a0b46bdb7dc5c3b14982b6fb/assets/instagram.svg" />
+</a>
   
 <!--  <a href="https://www.youtube.com/watch?v=BBJa32lCaaY">
   <img align="left" alt="Abhishek Naidu | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
