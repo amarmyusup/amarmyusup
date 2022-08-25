@@ -1,6 +1,6 @@
 <h1> Hi, Welcome</h1>
 <h1 align="center">I'm Amar Maulana Yusup, 16y</h1>
-<h1 align="center">Daydream. </h1> 
+<h1 align="center">Failure is when you don’t try.</h1> 
 
 
 - <h3>A young man in love with technology. <img src="https://emojis.slackmojis.com/emojis/images/1614195067/14740/pc_computer.gif?1614195067" width="40" /></h3> 
