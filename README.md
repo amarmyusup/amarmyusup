@@ -1,4 +1,4 @@
-<h1> Hi, Welcome</h1>
+<h1> Hi, welcome</h1>
 <h1 align="center">I'm Amar Maulana Yusup, 16y</h1>
 <h2 align="center">Failure is when you don’t try. </h2> 
 
