@@ -44,8 +44,8 @@
 
 ## 🔗 Links
 
-<a href="https://www.twitter.com/amarmyusup-/">
-  <img align="left" alt="Twitter" width="40px" src="https://raw.githubusercontent.com/amarmyusup/amarmyusup/blob/main/assets/twitter.svg" />
+<a href="https://www.twitter.com/amarmyusup/">
+  <img align="left" alt="Twitter" width="40px" src="https://raw.githubusercontent.com/amarmyusup/amarmyusup/assets/twitter.svg" />
 </a>
 <!-- <a href="https://twitter.com/NikaumJs">
   <img align="left" alt="Abhishek's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
