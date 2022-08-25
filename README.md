@@ -1,5 +1,5 @@
 <h1> Hi, Welcome</h1>
-<h1 align="center">Hi, I'm Amar Maulana Yusup, 16y</h1>
+<h1 align="center">I'm Amar Maulana Yusup, 16y</h1>
 <h1 align="center">Front-End Developer </h1> 
 
 
@@ -61,10 +61,9 @@
 <br>
 <br>
   
-# Bye Bye <img src="https://emojis.slackmojis.com/emojis/images/1616110799/22173/bye.gif?1616110799" width="50" /> 
+Bye Bye <img src="https://emojis.slackmojis.com/emojis/images/1616110799/22173/bye.gif?1616110799" width="50" /> 
 <br>
 <br>
   
 <img src="https://emojis.slackmojis.com/emojis/images/1598266360/10254/pepe_naruto.gif?1598266360" width="100" />
 </p>
--->
