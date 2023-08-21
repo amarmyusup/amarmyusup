@@ -55,6 +55,7 @@
 </a>
 <a href="https://www.linkedin.com/in/amarmyusup/">
   <img align="left" alt="Linkedin" width="40px" src="https://github.com/amarmyusup/amarmyusup/blob/assets/LinkedIn.jpg" />
+</a>
 
 <!--
 <br>
