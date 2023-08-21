@@ -55,7 +55,7 @@
 </a>
 <a href="https://www.linkedin.com/in/amarmyusup/">
   <img align="left" alt="Linkedin" width="40px"
-  src="http://www.w3.org/2000/svg" />
+  src="http://www.w3.org/2000/svg](https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" />
 
 <!--
 <br>
