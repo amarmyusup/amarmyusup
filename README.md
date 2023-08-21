@@ -55,7 +55,7 @@
 </a>
 <a href="https://www.linkedin.com/in/amarmyusup/">
   <img align="left" alt="Linkedin" width="40px"
-  src="http://www.w3.org/2000/svg](https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png](https://www.endupack.com/wp-content/uploads/2019/06/linkedin-icon-logo-png-transparent.png" />
+  src="https://github.com/amarmyusup/amarmyusup/blob/main/assets/linkedin.svg" />
 
 <!--
 <br>
