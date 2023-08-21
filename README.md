@@ -5,7 +5,7 @@
 
 - <h3>A young man in love with technology. <img src="https://emojis.slackmojis.com/emojis/images/1614195067/14740/pc_computer.gif?1614195067" width="40" /></h3> 
 
-- <h3>Still learning programming language</h3> 
+- <h3>Still learning programming language, passionate to Cybersecurity</h3> 
   
 - <h3>I live in Indonesia.</h3>
 
