@@ -54,7 +54,7 @@
   <img align="left" alt="Facebook" width="40px" src="https://github.com/amarmyusup/amarmyusup/blob/088b66946ca57bc83a9840364c5714ba47ddde86/assets/facebook.svg" />
 </a>
 <a href="https://www.linkedin.com/in/amarmyusup/">
-  <img align="left" alt="Linkedin" width="40px" src="https://github.com/amarmyusup/amarmyusup/blob/main/assets/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="40px" src="https://github.com/amarmyusup/amarmyusup/blob/assets/LinkedIn.jpg" />
 
 <!--
 <br>
