@@ -20,7 +20,6 @@
 <code><img height="100" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"></code>
 <code><img height="100" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"></code>
 <code><img height="100" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"></code>
-<code><img height="100" src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif"></code>
 <code><img height="100" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif"></code>
 <code><img height="100" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif"></code>
 </p>
